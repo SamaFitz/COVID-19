@@ -10,6 +10,8 @@ Please see the [COVID-19 Data Profile](https://drive.google.com/file/d/1vbhL8gJF
 COVID-19 open-source data was obtained from the National Center for Health Statistics (NCHS)
 [NCHS COVID-19 open source data](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku)
 
+An exploratory analysis can be found on [Tableau](https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/COVIDStoryboard/Story1). Of note, this does not contain all analyses found in the Python script. 
+
 ## Tools
 The following libraries were used for Python:
 - Panda
